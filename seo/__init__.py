@@ -10,4 +10,4 @@ class SeoConfig(AppConfig):
 
 default_app_config = 'seo.SeoConfig'
 
-__version__ = '1.2'
+__version__ = '2.0'

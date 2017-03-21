@@ -14,4 +14,5 @@ storage.db
 media
 static-collect
 debug.log
-dist/
+dist
+django_mp_seo.egg-info
